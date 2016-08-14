@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[M-Grid]]></title>
+        <description><![CDATA[M-Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Aug 2016 19:56:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mark Lediard]]></title>
+            <description><![CDATA[<article><h1>Mark Lediard</h1><p>Director of commercials, promos, brand films and shorts. Based in the UK but with experience world wide. Also an award winning editor, colourist (colorist) and vfx artist. This is my video portfolio website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c05f11fee9239d3c0648ef5f7dadccc/noop.jpg?input=https%3A%2F%2Fpro2-bar-s3-cdn-cf6.myportfolio.com%2Ff057f5c6a909698320c3f5d9493f5945%2Fad66e440541769.5783bd4335c62_rwc_571x4x773x606x773.jpg%3Fh%3D2ad640b8fdbb114f04c1adef43e1876c"></article>]]></description>
+            <link>http://marklediard.com/</link>
+            <guid isPermaLink="false">b6c5d10d-5c69-4dbb-89fc-3bc304b306d7</guid>
+            <pubDate>Sun, 14 Aug 2016 19:56:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
