@@ -1,0 +1,14 @@
+layout_spectrum: 0.6962055324111134
+typography_spectrum: 0.4697970631532371
+color:
+  brandStrength: 0.46191873657517135
+  lightness: 0.43979951553046703
+  saturation: 0.5194745333865285
+  rhythmicContrast: 0.16896610357798636
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: M-Grid
